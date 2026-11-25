@@ -1,0 +1,12 @@
+# Dependencies and build output (reinstall with npm install, rebuild with npm run build)
+node_modules/
+dist/
+
+# Logs and local files
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json

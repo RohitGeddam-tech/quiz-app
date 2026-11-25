@@ -1,0 +1,12 @@
+{
+  "name": "quiz-vanilla",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multiple-choice quiz in plain HTML, CSS and JavaScript (no framework, no build step).",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "node --test",
+    "typecheck": "npx -p typescript tsc -p jsconfig.json"
+  }
+}
